@@ -10,7 +10,7 @@ fastapi==0.103.2
 graphql-core==3.2.3
 greenlet==3.0.0
 h11==0.14.0
-httpcore==0.18.0
+#httpcore==0.18.0
 httpx==0.25.0
 huggingface-hub==0.17.3
 idna==3.4
